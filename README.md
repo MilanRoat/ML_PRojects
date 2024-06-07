@@ -8,3 +8,4 @@ contains 3 projects developed under internship programme with encryptix
 
 also other projects like 
 1) credit_card_fraud_detection
+2) Spam Classifier (NLP based project)
