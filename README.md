@@ -5,3 +5,6 @@ contains 3 projects developed under internship programme with encryptix
 1) titanic survival prediction
 2) sales prediction
 3) movie_rating_prediction
+
+also other projects like 
+1) credit_card_fraud_detection
