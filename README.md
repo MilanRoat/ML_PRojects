@@ -1,11 +1,7 @@
 # ML_PRojects
-this repository contains the original files of ML and data science projects created by me 
+this repository contains the original files of the project based on 
+google gemini pro api . this app , built with stramlit extracts transcript from a youtube video link
+and provides a summery of that video. support both hindi and english language.
 
-contains 3 projects developed under internship programme with encryptix 
-1) titanic survival prediction
-2) sales prediction
-3) movie_rating_prediction
-
-also other projects like 
-1) credit_card_fraud_detection
-2) Spam Classifier (NLP based project)
+add your own gemini pro api in .env file
+and intall all the requirements listed in requirement.txt file
